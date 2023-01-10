@@ -1,0 +1,23 @@
+body {
+    overflow: hidden;
+    margin: auto;
+    background: white;
+    margin-top: 4%;
+    text-align: center;
+}
+
+.scroll {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 50%;
+    background-color: aqua;
+    border: 1px black solid;
+    padding: 2%;
+    width: 500px;
+    margin: 0 auto;
+    font-size: large;
+}
+
+.buttons {
+    width: 500px
+}
